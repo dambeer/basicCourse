@@ -3,3 +3,16 @@ C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\
 C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Debug\net6.0\Lesson11_Polymorphism.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Debug\net6.0\Lesson11_Polymorphism.AssemblyInfo.cs
 C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Debug\net6.0\Lesson11_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\bin\Debug\net6.0\Lesson11_Polymorphism.exe
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\bin\Debug\net6.0\Lesson11_Polymorphism.deps.json
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\bin\Debug\net6.0\Lesson11_Polymorphism.runtimeconfig.json
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\bin\Debug\net6.0\Lesson11_Polymorphism.dll
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\bin\Debug\net6.0\Lesson11_Polymorphism.pdb
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Debug\net6.0\Lesson11_Polymorphism.csproj.CopyComplete
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Debug\net6.0\Lesson11_Polymorphism.dll
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Debug\net6.0\refint\Lesson11_Polymorphism.dll
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Debug\net6.0\Lesson11_Polymorphism.pdb
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Debug\net6.0\Lesson11_Polymorphism.genruntimeconfig.cache
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Debug\net6.0\ref\Lesson11_Polymorphism.dll
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\bin\Debug\net6.0\Model.dll
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\bin\Debug\net6.0\Model.pdb

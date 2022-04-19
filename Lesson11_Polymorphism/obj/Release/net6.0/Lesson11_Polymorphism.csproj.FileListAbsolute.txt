@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Release\net6.0\Lesson11_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Release\net6.0\Lesson11_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Release\net6.0\Lesson11_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Release\net6.0\Lesson11_Polymorphism.AssemblyInfo.cs
+C:\Users\User\Desktop\gff\Lesson 11\Lesson11_Polymorphism\Lesson11_Polymorphism\obj\Release\net6.0\Lesson11_Polymorphism.csproj.CoreCompileInputs.cache
