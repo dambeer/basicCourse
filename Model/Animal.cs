@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Models
+namespace Model
 {
     public class Animal
     {
@@ -15,10 +15,10 @@ namespace Models
 
         public Animal(string catName, char catEye = '0', int catEyeColor = 10, int catColor = 5)
         {
-            this.eye = catEye;
-            this.eyeColor = catEyeColor;
-            this.color = catColor;
-            this.name = catName;
+            eye = catEye;
+            eyeColor = catEyeColor;
+            color = catColor;
+            name = catName;
         }
 
         public string Name
